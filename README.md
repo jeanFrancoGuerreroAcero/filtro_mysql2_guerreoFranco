@@ -1,7 +1,7 @@
 # El Universitario
 
 ## Descripción del Proyecto
-la base de tado el unversitario fue creada para agilizar la gestion de la infromacion que se tiene como los alumnos, profesores, asignaturas, grados y algunos mas, creando 20 consultas para agilizar el manejo de los archivos sql
+la base de tado el unversitario fue creada para agilizar la gestion de la informacion que se tiene como los alumnos, profesores, asignaturas, grados y algunos mas, creando 20 consultas para agilizar el manejo de los archivos sql
 
 ## Requisitos del Sistema
 - el software necesario para la ejecucion de los arcivos sql es mysql workbench version 8.0,
